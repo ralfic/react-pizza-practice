@@ -6,3 +6,8 @@ export { TopBar } from './top-bar';
 export { Title } from './title';
 export { FilterCheckbox } from './filter-checkbox';
 export { Filters } from './filters';
+export { SearchInput } from './search-input';
+export { PizzaImage } from './pizza-image';
+export { GroupVariants } from './group-variants';
+export { ChooseProductModal } from './modals';
+export { ChooseProductForm } from './choose-product-form';
